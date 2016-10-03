@@ -95,3 +95,4 @@ pyvenv.cfg
 share/
 include/
 local/
+.vscode/
