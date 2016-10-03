@@ -93,3 +93,6 @@ bin/
 pip-selfcheck.json
 pyvenv.cfg
 share/
+include/
+local/
+.vscode/
